@@ -28,9 +28,8 @@
 
 --- BROTH INGREDIENT ---
 - bone
-- carrot
-- potato
-- beetroot
+- any vegetable
+- any meat
 
 --- BROTH ---
 - 1-8x 	broth = water bucket + [broth ingredient]	+ 1-8x dried kelp
